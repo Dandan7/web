@@ -1,6 +1,6 @@
 # my-app
 
-> a demo
+> 根据CNode社区提供的API使用Vue2.x + Webpack + axios + Vue-router 实现了社区基础功能
 
 ## Build Setup
 
